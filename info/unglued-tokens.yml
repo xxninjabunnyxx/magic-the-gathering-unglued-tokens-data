@@ -1,0 +1,16 @@
+---
+object: set
+id: cf1f416e-ea50-4d93-8f75-c3a49c8238cf
+code: tugl
+name: Unglued Tokens
+uri: https://api.scryfall.com/sets/cf1f416e-ea50-4d93-8f75-c3a49c8238cf
+scryfall_uri: https://scryfall.com/sets/tugl
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atugl&unique=prints
+released_at: '1998-08-11'
+set_type: token
+card_count: 6
+parent_set_code: ugl
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800

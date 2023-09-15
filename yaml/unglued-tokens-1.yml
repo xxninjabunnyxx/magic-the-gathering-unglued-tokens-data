@@ -1,0 +1,143 @@
+---
+object: card
+id: bc944579-b6d8-40f7-8c46-146513960d61
+oracle_id: 251085b8-4bca-4fcd-92a0-006541be827e
+multiverse_ids: []
+tcgplayer_id: 72354
+name: Pegasus
+lang: en
+released_at: '1998-08-11'
+uri: https://api.scryfall.com/cards/bc944579-b6d8-40f7-8c46-146513960d61
+scryfall_uri: https://scryfall.com/card/tugl/1/pegasus?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/c/bc944579-b6d8-40f7-8c46-146513960d61.jpg?1691108805
+  normal: https://cards.scryfall.io/normal/front/b/c/bc944579-b6d8-40f7-8c46-146513960d61.jpg?1691108805
+  large: https://cards.scryfall.io/large/front/b/c/bc944579-b6d8-40f7-8c46-146513960d61.jpg?1691108805
+  png: https://cards.scryfall.io/png/front/b/c/bc944579-b6d8-40f7-8c46-146513960d61.png?1691108805
+  art_crop: https://cards.scryfall.io/art_crop/front/b/c/bc944579-b6d8-40f7-8c46-146513960d61.jpg?1691108805
+  border_crop: https://cards.scryfall.io/border_crop/front/b/c/bc944579-b6d8-40f7-8c46-146513960d61.jpg?1691108805
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Pegasus
+oracle_text: Flying
+power: '1'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+all_parts:
+- object: related_card
+  id: a2bce334-0ae6-4a7d-85db-99ee205ce546
+  component: combo_piece
+  name: Pegasus Refuge
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/a2bce334-0ae6-4a7d-85db-99ee205ce546
+- object: related_card
+  id: a5301a1b-5fa1-4311-a515-ff1b64c98945
+  component: combo_piece
+  name: Pegasus Stampede
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/a5301a1b-5fa1-4311-a515-ff1b64c98945
+- object: related_card
+  id: bc944579-b6d8-40f7-8c46-146513960d61
+  component: token
+  name: Pegasus
+  type_line: Token Creature — Pegasus
+  uri: https://api.scryfall.com/cards/bc944579-b6d8-40f7-8c46-146513960d61
+- object: related_card
+  id: 62a3fc08-6d95-43da-8479-4289018c2d58
+  component: combo_piece
+  name: Storm Herd
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/62a3fc08-6d95-43da-8479-4289018c2d58
+- object: related_card
+  id: f0427b4d-86bf-4f72-9215-ec50cf48e98c
+  component: combo_piece
+  name: Sacred Mesa
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/f0427b4d-86bf-4f72-9215-ec50cf48e98c
+- object: related_card
+  id: fc234414-78fe-490b-92d5-25feb0507a43
+  component: combo_piece
+  name: Pegasus Guardian // Rescue the Foal
+  type_line: Creature — Pegasus // Instant — Adventure
+  uri: https://api.scryfall.com/cards/fc234414-78fe-490b-92d5-25feb0507a43
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: cf1f416e-ea50-4d93-8f75-c3a49c8238cf
+set: tugl
+set_name: Unglued Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/cf1f416e-ea50-4d93-8f75-c3a49c8238cf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atugl&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tugl?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bc944579-b6d8-40f7-8c46-146513960d61/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A251085b8-4bca-4fcd-92a0-006541be827e&unique=prints
+collector_number: '1'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Zug
+artist_ids:
+- 48e2b98c-5467-4671-bd42-4c3746115117
+illustration_id: 24a77b51-0fd1-42df-9c4c-db060014c93b
+border_color: silver
+frame: '1997'
+full_art: true
+textless: true
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.57'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pegasus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pegasus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Pegasus
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/72354?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pegasus&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pegasus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

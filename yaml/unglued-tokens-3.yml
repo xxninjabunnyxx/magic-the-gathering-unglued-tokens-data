@@ -1,0 +1,688 @@
+---
+object: card
+id: 8e7b5995-ee8b-40d1-b157-8df96c02cc5b
+oracle_id: ddc8c973-c31e-463f-be45-f3fa7d632362
+multiverse_ids: []
+tcgplayer_id: 919
+name: Zombie
+lang: en
+released_at: '1998-08-11'
+uri: https://api.scryfall.com/cards/8e7b5995-ee8b-40d1-b157-8df96c02cc5b
+scryfall_uri: https://scryfall.com/card/tugl/3/zombie?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/e/8e7b5995-ee8b-40d1-b157-8df96c02cc5b.jpg?1691108824
+  normal: https://cards.scryfall.io/normal/front/8/e/8e7b5995-ee8b-40d1-b157-8df96c02cc5b.jpg?1691108824
+  large: https://cards.scryfall.io/large/front/8/e/8e7b5995-ee8b-40d1-b157-8df96c02cc5b.jpg?1691108824
+  png: https://cards.scryfall.io/png/front/8/e/8e7b5995-ee8b-40d1-b157-8df96c02cc5b.png?1691108824
+  art_crop: https://cards.scryfall.io/art_crop/front/8/e/8e7b5995-ee8b-40d1-b157-8df96c02cc5b.jpg?1691108824
+  border_crop: https://cards.scryfall.io/border_crop/front/8/e/8e7b5995-ee8b-40d1-b157-8df96c02cc5b.jpg?1691108824
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Zombie
+oracle_text: ''
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+all_parts:
+- object: related_card
+  id: f5dd0247-f6a0-4f1d-ac27-a49a7e022e5b
+  component: combo_piece
+  name: Waste Not
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/f5dd0247-f6a0-4f1d-ac27-a49a7e022e5b
+- object: related_card
+  id: 9782b0b8-07f1-45dd-b1a9-3edd37e0e3ab
+  component: combo_piece
+  name: Awaken the Erstwhile
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/9782b0b8-07f1-45dd-b1a9-3edd37e0e3ab
+- object: related_card
+  id: e94b1ac7-dd7b-46a1-a74e-aa0563bab3cd
+  component: combo_piece
+  name: Empty the Pits
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/e94b1ac7-dd7b-46a1-a74e-aa0563bab3cd
+- object: related_card
+  id: 384ad52f-63c0-4c55-8e6d-847d532e610d
+  component: combo_piece
+  name: Wight
+  type_line: Creature — Zombie Soldier
+  uri: https://api.scryfall.com/cards/384ad52f-63c0-4c55-8e6d-847d532e610d
+- object: related_card
+  id: 6a6619b7-429d-4855-9d8a-0a4a1486f18e
+  component: combo_piece
+  name: Gisa's Bidding
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/6a6619b7-429d-4855-9d8a-0a4a1486f18e
+- object: related_card
+  id: a1c107c4-bd41-4138-a364-171a444524bd
+  component: combo_piece
+  name: Oath of Liliana
+  type_line: Legendary Enchantment
+  uri: https://api.scryfall.com/cards/a1c107c4-bd41-4138-a364-171a444524bd
+- object: related_card
+  id: 5219ed86-eb4e-43f5-9c75-f3b24abe42a5
+  component: combo_piece
+  name: Ghoulcaller Gisa
+  type_line: Legendary Creature — Human Wizard
+  uri: https://api.scryfall.com/cards/5219ed86-eb4e-43f5-9c75-f3b24abe42a5
+- object: related_card
+  id: 5e673ac9-d420-4b52-a49f-ac713b598d8b
+  component: combo_piece
+  name: Bridge from Below
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/5e673ac9-d420-4b52-a49f-ac713b598d8b
+- object: related_card
+  id: f6913dce-05f5-4e1b-9dd9-67eb347b5be8
+  component: combo_piece
+  name: Shamble Back
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/f6913dce-05f5-4e1b-9dd9-67eb347b5be8
+- object: related_card
+  id: a53d3ce5-3e71-44f1-ab0e-98d399287722
+  component: combo_piece
+  name: Doomed Dissenter
+  type_line: Creature — Human
+  uri: https://api.scryfall.com/cards/a53d3ce5-3e71-44f1-ab0e-98d399287722
+- object: related_card
+  id: decef464-d1d3-4459-a1c4-fbad684d5d02
+  component: combo_piece
+  name: The Fourth Sphere
+  type_line: Plane — Phyrexia
+  uri: https://api.scryfall.com/cards/decef464-d1d3-4459-a1c4-fbad684d5d02
+- object: related_card
+  id: 0dadc9ea-fd6b-449e-82cc-ca7cab7da1ce
+  component: combo_piece
+  name: Ghoulcaller's Accomplice
+  type_line: Creature — Human Rogue
+  uri: https://api.scryfall.com/cards/0dadc9ea-fd6b-449e-82cc-ca7cab7da1ce
+- object: related_card
+  id: 31699dde-756d-49f1-9384-cdb9f210294c
+  component: combo_piece
+  name: Cryptbreaker
+  type_line: Creature — Zombie
+  uri: https://api.scryfall.com/cards/31699dde-756d-49f1-9384-cdb9f210294c
+- object: related_card
+  id: 189abe2f-5899-438b-9f54-3c98e50f037a
+  component: combo_piece
+  name: Drana's Chosen
+  type_line: Creature — Vampire Shaman Ally
+  uri: https://api.scryfall.com/cards/189abe2f-5899-438b-9f54-3c98e50f037a
+- object: related_card
+  id: 0bf584fd-b13b-4f86-9c9a-fa6514255aba
+  component: combo_piece
+  name: Rakshasa Gravecaller
+  type_line: Creature — Cat Demon
+  uri: https://api.scryfall.com/cards/0bf584fd-b13b-4f86-9c9a-fa6514255aba
+- object: related_card
+  id: ed58ad91-5279-41c8-8da9-f5a5a49e1f7e
+  component: combo_piece
+  name: Tymaret Calls the Dead
+  type_line: Enchantment — Saga
+  uri: https://api.scryfall.com/cards/ed58ad91-5279-41c8-8da9-f5a5a49e1f7e
+- object: related_card
+  id: 996b15b0-ae2b-43eb-acfd-5763438cf76e
+  component: combo_piece
+  name: Graveyard Marshal
+  type_line: Creature — Zombie Soldier
+  uri: https://api.scryfall.com/cards/996b15b0-ae2b-43eb-acfd-5763438cf76e
+- object: related_card
+  id: 11fedd76-ee35-4a17-8cdb-684414783df9
+  component: combo_piece
+  name: Open the Graves
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/11fedd76-ee35-4a17-8cdb-684414783df9
+- object: related_card
+  id: 576d3c5e-78a9-451d-9eb1-afafbd893d95
+  component: combo_piece
+  name: Dying to Serve
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/576d3c5e-78a9-451d-9eb1-afafbd893d95
+- object: related_card
+  id: 17c24e4a-5c35-46b2-a861-3dddab5472e3
+  component: combo_piece
+  name: Acererak the Archlich
+  type_line: Legendary Creature — Zombie Wizard
+  uri: https://api.scryfall.com/cards/17c24e4a-5c35-46b2-a861-3dddab5472e3
+- object: related_card
+  id: 41713e82-c3d3-4c2f-b075-f684cbd68ce8
+  component: combo_piece
+  name: Cradle of the Accursed
+  type_line: Land — Desert
+  uri: https://api.scryfall.com/cards/41713e82-c3d3-4c2f-b075-f684cbd68ce8
+- object: related_card
+  id: b7231a1c-f3aa-4346-9eb1-63e35ab3001c
+  component: combo_piece
+  name: Undead Alchemist
+  type_line: Creature — Zombie
+  uri: https://api.scryfall.com/cards/b7231a1c-f3aa-4346-9eb1-63e35ab3001c
+- object: related_card
+  id: 4239c4e8-41f3-47fd-bd01-fa0b28976e29
+  component: combo_piece
+  name: Midnight Ritual
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/4239c4e8-41f3-47fd-bd01-fa0b28976e29
+- object: related_card
+  id: d6378465-0f28-46b6-8464-ff57b77d50e8
+  component: combo_piece
+  name: Rise from the Tides
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/d6378465-0f28-46b6-8464-ff57b77d50e8
+- object: related_card
+  id: 21f348f7-f14a-4752-a4d1-d8becffa1ba8
+  component: combo_piece
+  name: Bone Miser
+  type_line: Creature — Zombie Wizard
+  uri: https://api.scryfall.com/cards/21f348f7-f14a-4752-a4d1-d8becffa1ba8
+- object: related_card
+  id: '0458a7b3-c7cd-492b-bfff-37a376368c7b'
+  component: combo_piece
+  name: Nevinyrral, Urborg Tyrant
+  type_line: Legendary Creature — Zombie Wizard
+  uri: https://api.scryfall.com/cards/0458a7b3-c7cd-492b-bfff-37a376368c7b
+- object: related_card
+  id: 12fc3be0-6159-4cda-8785-b0bec7f4b69f
+  component: combo_piece
+  name: Sidisi, Brood Tyrant
+  type_line: Legendary Creature — Naga Shaman
+  uri: https://api.scryfall.com/cards/12fc3be0-6159-4cda-8785-b0bec7f4b69f
+- object: related_card
+  id: b260fbe1-21cb-4a66-aca3-e504b67ed712
+  component: combo_piece
+  name: Archdemon of Unx
+  type_line: Creature — Demon
+  uri: https://api.scryfall.com/cards/b260fbe1-21cb-4a66-aca3-e504b67ed712
+- object: related_card
+  id: 92105bc6-b64a-4bdc-99fe-7a2ccdbd4486
+  component: combo_piece
+  name: Feast or Famine
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/92105bc6-b64a-4bdc-99fe-7a2ccdbd4486
+- object: related_card
+  id: a023e08d-7a47-4897-b14b-743269b96ae9
+  component: combo_piece
+  name: Hour of Promise
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/a023e08d-7a47-4897-b14b-743269b96ae9
+- object: related_card
+  id: 7a05edf6-ade4-4052-924d-6057faa51693
+  component: combo_piece
+  name: Rank Officer
+  type_line: Creature — Zombie Soldier
+  uri: https://api.scryfall.com/cards/7a05edf6-ade4-4052-924d-6057faa51693
+- object: related_card
+  id: 0cb84193-9648-46e5-a34d-c12cc3f1d7f2
+  component: combo_piece
+  name: Stir the Sands
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/0cb84193-9648-46e5-a34d-c12cc3f1d7f2
+- object: related_card
+  id: bfbc0f7c-546f-4525-bb58-c99ab9b017d5
+  component: combo_piece
+  name: Undead Servant
+  type_line: Creature — Zombie
+  uri: https://api.scryfall.com/cards/bfbc0f7c-546f-4525-bb58-c99ab9b017d5
+- object: related_card
+  id: 06bcf9ac-f0f7-405b-960b-ebf15b2640a7
+  component: combo_piece
+  name: Liliana, Dreadhorde General
+  type_line: Legendary Planeswalker — Liliana
+  uri: https://api.scryfall.com/cards/06bcf9ac-f0f7-405b-960b-ebf15b2640a7
+- object: related_card
+  id: 5fcac17f-8fdc-4cb2-a4c5-ea44155ce852
+  component: combo_piece
+  name: Dread Summons
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/5fcac17f-8fdc-4cb2-a4c5-ea44155ce852
+- object: related_card
+  id: ab9ed2b9-5fb9-4633-8c9a-0594ae7c49c7
+  component: combo_piece
+  name: Boneclad Necromancer
+  type_line: Creature — Human Wizard
+  uri: https://api.scryfall.com/cards/ab9ed2b9-5fb9-4633-8c9a-0594ae7c49c7
+- object: related_card
+  id: 8abee671-86a3-4e26-ad6a-1059c87922b0
+  component: combo_piece
+  name: Liliana, the Last Hope
+  type_line: Legendary Planeswalker — Liliana
+  uri: https://api.scryfall.com/cards/8abee671-86a3-4e26-ad6a-1059c87922b0
+- object: related_card
+  id: 3fd46f2b-1458-44b1-9c65-960b261b81a5
+  component: combo_piece
+  name: Vile Rebirth
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/3fd46f2b-1458-44b1-9c65-960b261b81a5
+- object: related_card
+  id: d920b00c-d4ed-4d21-abfa-da270a1ae94f
+  component: combo_piece
+  name: Endless Ranks of the Dead
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/d920b00c-d4ed-4d21-abfa-da270a1ae94f
+- object: related_card
+  id: f8ca82ce-64f8-4e52-b8d9-aec6acb562f9
+  component: combo_piece
+  name: Curse of Disturbance
+  type_line: Enchantment — Aura Curse
+  uri: https://api.scryfall.com/cards/f8ca82ce-64f8-4e52-b8d9-aec6acb562f9
+- object: related_card
+  id: 267789e2-c168-41f0-89ea-6c3cdd944b35
+  component: combo_piece
+  name: Tormod, the Desecrator
+  type_line: Legendary Creature — Zombie Wizard
+  uri: https://api.scryfall.com/cards/267789e2-c168-41f0-89ea-6c3cdd944b35
+- object: related_card
+  id: 82daa7af-2621-4b5b-8828-cab382a9f27c
+  component: combo_piece
+  name: Cemetery Reaper
+  type_line: Creature — Zombie
+  uri: https://api.scryfall.com/cards/82daa7af-2621-4b5b-8828-cab382a9f27c
+- object: related_card
+  id: cd59d5ff-bba3-46fa-a963-f3dff49a2714
+  component: combo_piece
+  name: Army of the Damned
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/cd59d5ff-bba3-46fa-a963-f3dff49a2714
+- object: related_card
+  id: f42b0052-0758-489f-b7e2-208686ad82af
+  component: combo_piece
+  name: Liliana, Death's Majesty
+  type_line: Legendary Planeswalker — Liliana
+  uri: https://api.scryfall.com/cards/f42b0052-0758-489f-b7e2-208686ad82af
+- object: related_card
+  id: bc94ab89-8cb7-4851-bb92-87f955a296b5
+  component: combo_piece
+  name: Aphemia, the Cacophony
+  type_line: Legendary Enchantment Creature — Harpy
+  uri: https://api.scryfall.com/cards/bc94ab89-8cb7-4851-bb92-87f955a296b5
+- object: related_card
+  id: b06a3112-a27e-44ba-872a-c7fb5e0b29ad
+  component: combo_piece
+  name: Drunau Corpse Trawler
+  type_line: Creature — Zombie
+  uri: https://api.scryfall.com/cards/b06a3112-a27e-44ba-872a-c7fb5e0b29ad
+- object: related_card
+  id: 7701cd3f-7795-44b4-9cd5-76682b7a2533
+  component: combo_piece
+  name: Oglor, Devoted Assistant
+  type_line: Legendary Creature — Homunculus
+  uri: https://api.scryfall.com/cards/7701cd3f-7795-44b4-9cd5-76682b7a2533
+- object: related_card
+  id: 7023889e-924f-495f-b189-82592989d659
+  component: combo_piece
+  name: Assemble the Rank and Vile
+  type_line: Conspiracy
+  uri: https://api.scryfall.com/cards/7023889e-924f-495f-b189-82592989d659
+- object: related_card
+  id: 8049cd41-bec4-425e-b750-939a1ba905fe
+  component: combo_piece
+  name: Grixis Slavedriver
+  type_line: Creature — Zombie Giant
+  uri: https://api.scryfall.com/cards/8049cd41-bec4-425e-b750-939a1ba905fe
+- object: related_card
+  id: 3559d8f2-eed2-425f-b9de-a18ad6fddcb5
+  component: combo_piece
+  name: Necromancer's Covenant
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/3559d8f2-eed2-425f-b9de-a18ad6fddcb5
+- object: related_card
+  id: eea3b24d-d42f-447a-8438-49fd837d2fe5
+  component: combo_piece
+  name: Necromentia
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/eea3b24d-d42f-447a-8438-49fd837d2fe5
+- object: related_card
+  id: 4defdead-19fa-4535-9f71-8808388b0332
+  component: combo_piece
+  name: Reap the Seagraf
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/4defdead-19fa-4535-9f71-8808388b0332
+- object: related_card
+  id: fa9396f3-a93c-47ee-91da-78af864c86c3
+  component: combo_piece
+  name: Liliana's Reaver
+  type_line: Creature — Zombie
+  uri: https://api.scryfall.com/cards/fa9396f3-a93c-47ee-91da-78af864c86c3
+- object: related_card
+  id: 57b16b28-f628-4d38-b3f8-c9021e322734
+  component: combo_piece
+  name: Varina, Lich Queen
+  type_line: Legendary Creature — Zombie Wizard
+  uri: https://api.scryfall.com/cards/57b16b28-f628-4d38-b3f8-c9021e322734
+- object: related_card
+  id: f8fe2f99-7ec2-490c-8ec3-aa2fb4680826
+  component: combo_piece
+  name: Tombstone Stairwell
+  type_line: World Enchantment
+  uri: https://api.scryfall.com/cards/f8fe2f99-7ec2-490c-8ec3-aa2fb4680826
+- object: related_card
+  id: 98756620-8f76-42f5-a83b-e9f300c7d202
+  component: combo_piece
+  name: Wand of Orcus
+  type_line: Legendary Artifact — Equipment
+  uri: https://api.scryfall.com/cards/98756620-8f76-42f5-a83b-e9f300c7d202
+- object: related_card
+  id: cf31fec2-40d6-4810-8575-c7814bb4b6b4
+  component: combo_piece
+  name: From Under the Floorboards
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/cf31fec2-40d6-4810-8575-c7814bb4b6b4
+- object: related_card
+  id: ea1b217c-c3d4-4cdb-9ee7-2cf7c8d0eb7b
+  component: combo_piece
+  name: Cellar Door
+  type_line: Artifact
+  uri: https://api.scryfall.com/cards/ea1b217c-c3d4-4cdb-9ee7-2cf7c8d0eb7b
+- object: related_card
+  id: 144c4e3b-1679-4937-8637-05a98295168a
+  component: combo_piece
+  name: Invasion of Innistrad // Deluge of the Dead
+  type_line: Battle — Siege // Enchantment
+  uri: https://api.scryfall.com/cards/144c4e3b-1679-4937-8637-05a98295168a
+- object: related_card
+  id: 7b76e49c-1b02-4ef0-a707-9d85099435bf
+  component: combo_piece
+  name: Xathrid Necromancer
+  type_line: Creature — Human Wizard
+  uri: https://api.scryfall.com/cards/7b76e49c-1b02-4ef0-a707-9d85099435bf
+- object: related_card
+  id: a447bd2a-110c-46fa-97db-8b92aade1d1f
+  component: combo_piece
+  name: Necrotic Hex
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/a447bd2a-110c-46fa-97db-8b92aade1d1f
+- object: related_card
+  id: 54cec453-21f1-48a1-a395-9ec172b8f13a
+  component: combo_piece
+  name: Field of the Dead
+  type_line: Land
+  uri: https://api.scryfall.com/cards/54cec453-21f1-48a1-a395-9ec172b8f13a
+- object: related_card
+  id: b6078774-f681-46dd-a68e-1cefa8261d16
+  component: combo_piece
+  name: Lair of the Ashen Idol
+  type_line: Plane — Azgol
+  uri: https://api.scryfall.com/cards/b6078774-f681-46dd-a68e-1cefa8261d16
+- object: related_card
+  id: 01fe38ca-68f3-4a49-900b-4371e19a7751
+  component: combo_piece
+  name: Necromaster Dragon
+  type_line: Creature — Dragon
+  uri: https://api.scryfall.com/cards/01fe38ca-68f3-4a49-900b-4371e19a7751
+- object: related_card
+  id: e5be825b-16ea-49eb-8ffa-79af40ce4f98
+  component: combo_piece
+  name: Liliana's Devotee
+  type_line: Creature — Human Warlock
+  uri: https://api.scryfall.com/cards/e5be825b-16ea-49eb-8ffa-79af40ce4f98
+- object: related_card
+  id: 5e33c945-cf26-4641-a00e-18fb7f512def
+  component: combo_piece
+  name: Liliana, Heretical Healer // Liliana, Defiant Necromancer
+  type_line: Legendary Creature — Human Cleric // Legendary Planeswalker — Liliana
+  uri: https://api.scryfall.com/cards/5e33c945-cf26-4641-a00e-18fb7f512def
+- object: related_card
+  id: bde7ecbc-b277-437c-ac94-4c3e89f1bda6
+  component: combo_piece
+  name: Null Caller
+  type_line: Creature — Vampire Shaman
+  uri: https://api.scryfall.com/cards/bde7ecbc-b277-437c-ac94-4c3e89f1bda6
+- object: related_card
+  id: 5ecbb2b5-2a9d-417e-a73d-9ab21c5308ea
+  component: combo_piece
+  name: Syphon Flesh
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/5ecbb2b5-2a9d-417e-a73d-9ab21c5308ea
+- object: related_card
+  id: 99833a13-cc77-4fa3-ae3e-def47a30e944
+  component: combo_piece
+  name: Liliana's Mastery
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/99833a13-cc77-4fa3-ae3e-def47a30e944
+- object: related_card
+  id: 5e26f693-4e62-4925-923f-f46376a8a179
+  component: combo_piece
+  name: Sarcomancy
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/5e26f693-4e62-4925-923f-f46376a8a179
+- object: related_card
+  id: ef2c8aca-3ade-46b0-8366-ab3b244eca01
+  component: combo_piece
+  name: Zombie Infestation
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/ef2c8aca-3ade-46b0-8366-ab3b244eca01
+- object: related_card
+  id: 4f4fa62a-8297-4565-9ff5-68ba4c5b91e4
+  component: combo_piece
+  name: Never // Return
+  type_line: Sorcery // Sorcery
+  uri: https://api.scryfall.com/cards/4f4fa62a-8297-4565-9ff5-68ba4c5b91e4
+- object: related_card
+  id: 967f3962-482b-4080-bc65-3add0e34426b
+  component: combo_piece
+  name: Overseer of the Damned
+  type_line: Creature — Demon
+  uri: https://api.scryfall.com/cards/967f3962-482b-4080-bc65-3add0e34426b
+- object: related_card
+  id: 0e0904c0-4d9a-4c60-a6ce-5ba2fde8abea
+  component: combo_piece
+  name: Skull Skaab
+  type_line: Creature — Zombie
+  uri: https://api.scryfall.com/cards/0e0904c0-4d9a-4c60-a6ce-5ba2fde8abea
+- object: related_card
+  id: 326c7483-2c45-4804-85c4-d40ecdba4fc7
+  component: combo_piece
+  name: Dunes of the Dead
+  type_line: Land — Desert
+  uri: https://api.scryfall.com/cards/326c7483-2c45-4804-85c4-d40ecdba4fc7
+- object: related_card
+  id: 0ca7ee5d-085e-4420-a365-fcc5104448e5
+  component: combo_piece
+  name: Moan of the Unhallowed
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/0ca7ee5d-085e-4420-a365-fcc5104448e5
+- object: related_card
+  id: cc647ef4-1f17-4b8b-a312-60d548347d12
+  component: combo_piece
+  name: Unscythe, Killer of Kings
+  type_line: Legendary Artifact — Equipment
+  uri: https://api.scryfall.com/cards/cc647ef4-1f17-4b8b-a312-60d548347d12
+- object: related_card
+  id: ed0e46f8-5094-4e67-ad77-67e81c269657
+  component: combo_piece
+  name: Graf Harvest
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/ed0e46f8-5094-4e67-ad77-67e81c269657
+- object: related_card
+  id: 26a66f9a-23c3-463c-9423-a2723067d1a9
+  component: combo_piece
+  name: Headless Rider
+  type_line: Creature — Zombie
+  uri: https://api.scryfall.com/cards/26a66f9a-23c3-463c-9423-a2723067d1a9
+- object: related_card
+  id: 5fdec536-d233-40f1-9448-82c3c845ead6
+  component: combo_piece
+  name: Necromancer's Stockpile
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/5fdec536-d233-40f1-9448-82c3c845ead6
+- object: related_card
+  id: 849996e2-fb62-428f-88f1-4ac419617395
+  component: combo_piece
+  name: Curse of Shallow Graves
+  type_line: Enchantment — Aura Curse
+  uri: https://api.scryfall.com/cards/849996e2-fb62-428f-88f1-4ac419617395
+- object: related_card
+  id: 7c8cce8a-43b4-42aa-abbd-0835583e74bd
+  component: combo_piece
+  name: Maalfeld Twins
+  type_line: Creature — Zombie
+  uri: https://api.scryfall.com/cards/7c8cce8a-43b4-42aa-abbd-0835583e74bd
+- object: related_card
+  id: 8e7b5995-ee8b-40d1-b157-8df96c02cc5b
+  component: token
+  name: Zombie
+  type_line: Token Creature — Zombie
+  uri: https://api.scryfall.com/cards/8e7b5995-ee8b-40d1-b157-8df96c02cc5b
+- object: related_card
+  id: 87b29d1e-9c06-4ad1-8178-b3eaa212f6f1
+  component: combo_piece
+  name: Rotlung Reanimator
+  type_line: Creature — Zombie Cleric
+  uri: https://api.scryfall.com/cards/87b29d1e-9c06-4ad1-8178-b3eaa212f6f1
+- object: related_card
+  id: 51fb2230-00ed-4664-b7bc-3bd3a8590b8a
+  component: combo_piece
+  name: Kalitas, Traitor of Ghet
+  type_line: Legendary Creature — Vampire Warrior
+  uri: https://api.scryfall.com/cards/51fb2230-00ed-4664-b7bc-3bd3a8590b8a
+- object: related_card
+  id: bc32f707-3fa4-4e27-b48f-27b53650a6ff
+  component: combo_piece
+  name: Tobias, Doomed Conqueror
+  type_line: Legendary Creature — Human Soldier
+  uri: https://api.scryfall.com/cards/bc32f707-3fa4-4e27-b48f-27b53650a6ff
+- object: related_card
+  id: fec0c309-5e11-40b2-a38f-66503b357f5d
+  component: combo_piece
+  name: Magus of the Bridge
+  type_line: Creature — Human Wizard
+  uri: https://api.scryfall.com/cards/fec0c309-5e11-40b2-a38f-66503b357f5d
+- object: related_card
+  id: e0fd24ce-6b37-4801-b10f-5e2dbada7a41
+  component: combo_piece
+  name: Wakedancer
+  type_line: Creature — Human Shaman
+  uri: https://api.scryfall.com/cards/e0fd24ce-6b37-4801-b10f-5e2dbada7a41
+- object: related_card
+  id: f917afb6-992d-4eb1-bf7e-8fe4af56c9bd
+  component: combo_piece
+  name: Havengul Runebinder
+  type_line: Creature — Human Wizard
+  uri: https://api.scryfall.com/cards/f917afb6-992d-4eb1-bf7e-8fe4af56c9bd
+- object: related_card
+  id: ff36347c-1fc1-4493-8e45-ef3372ecce45
+  component: combo_piece
+  name: Suspicious Shambler
+  type_line: Creature — Zombie
+  uri: https://api.scryfall.com/cards/ff36347c-1fc1-4493-8e45-ef3372ecce45
+- object: related_card
+  id: a297304e-0034-4686-bad4-c6e6527453e8
+  component: combo_piece
+  name: Noosegraf Mob
+  type_line: Creature — Zombie
+  uri: https://api.scryfall.com/cards/a297304e-0034-4686-bad4-c6e6527453e8
+- object: related_card
+  id: '08a92949-b045-4e13-8b1e-5d4ec097432e'
+  component: combo_piece
+  name: Grave Titan
+  type_line: Creature — Giant
+  uri: https://api.scryfall.com/cards/08a92949-b045-4e13-8b1e-5d4ec097432e
+- object: related_card
+  id: d38bf566-d2f6-4f86-9e16-f39c85f8b947
+  component: combo_piece
+  name: Dark Salvation
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/d38bf566-d2f6-4f86-9e16-f39c85f8b947
+- object: related_card
+  id: bc5ef000-2d77-490b-9e51-54e08c3af248
+  component: combo_piece
+  name: Death Tyrant
+  type_line: Creature — Beholder Skeleton
+  uri: https://api.scryfall.com/cards/bc5ef000-2d77-490b-9e51-54e08c3af248
+- object: related_card
+  id: 065f63b2-472e-4148-8294-88ed38a5685f
+  component: combo_piece
+  name: Captive Audience
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/065f63b2-472e-4148-8294-88ed38a5685f
+- object: related_card
+  id: 907637c4-9127-4028-bde2-88358ada3e3d
+  component: combo_piece
+  name: The Book of Vile Darkness
+  type_line: Legendary Artifact
+  uri: https://api.scryfall.com/cards/907637c4-9127-4028-bde2-88358ada3e3d
+- object: related_card
+  id: d0f7808b-fc76-4108-a8d5-43b38b18f8a1
+  component: combo_piece
+  name: Diregraf Colossus
+  type_line: Creature — Zombie Giant
+  uri: https://api.scryfall.com/cards/d0f7808b-fc76-4108-a8d5-43b38b18f8a1
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: cf1f416e-ea50-4d93-8f75-c3a49c8238cf
+set: tugl
+set_name: Unglued Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/cf1f416e-ea50-4d93-8f75-c3a49c8238cf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atugl&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tugl?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8e7b5995-ee8b-40d1-b157-8df96c02cc5b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Addc8c973-c31e-463f-be45-f3fa7d632362&unique=prints
+collector_number: '3'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Rush
+artist_ids:
+- c96773f0-346c-4f7d-9271-2d98cc5d86e1
+illustration_id: ed31a0a4-ba1d-479b-b745-a128b4ba66d8
+border_color: silver
+frame: '1997'
+full_art: true
+textless: true
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '6.49'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Zombie&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Zombie&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Zombie
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/919?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Zombie&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zombie&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
